@@ -12,7 +12,7 @@
         padding-left: 30px;
         width: 55%;
         min-width: 550px;
-        // LOOK HERE 
+        // LOOK HERE
         font-size: 1.8rem;
         line-height: normal;
     }
@@ -21,6 +21,8 @@
     ul {
         font-size: 1.8rem;
         line-height: normal;
+        list-style-type: square;
+        list-style-position: inside;
     }
       
     img, video {
