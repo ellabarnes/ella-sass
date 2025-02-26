@@ -2,7 +2,7 @@
     width: 85%;
     min-height: 750px;
     min-width: 600px;
-    background-color: $secondary-color;
+    background-color: $primary-color;
 
     > * {
         padding-left: 30px;
@@ -30,5 +30,9 @@
         height: 350px;
         width: 550px;
         margin-bottom: 30px;
+    }
+
+    a {
+        color: $secondary-color;
     }
 }

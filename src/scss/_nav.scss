@@ -5,10 +5,19 @@
     padding-left: 15px;
     padding-right: 15px;
     text-align: center;
-    color: $secondary-color;
+    color: $primary-color;
 
     // LOOK HERE
     ul {
         list-style-type: none;
+    }
+
+    a {
+        color: $primary-color;
+        text-decoration: none;
+    }
+
+    a:hover{
+        text-decoration: underline;
     }
 }
